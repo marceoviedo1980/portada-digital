@@ -1,4 +1,4 @@
-const CACHE_NAME = 'portada-digital-v2';
+const CACHE_NAME = 'portada-digital-v3';
 const SHELL_FILES = [
   './',
   './index.html',
